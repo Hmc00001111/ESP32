@@ -1,10 +1,12 @@
 # DFRobot-LoRa-Firebeetle
 
-Today we are going to make a project which is a weather monitor which displays all the weather related information on an E-Paper display from DFRobot.
+Get started with LoRa Radios easily without ann much wiring. This is possible by using stackable modules from DFRobot.
 
-![alt text](https://github.com/akarsh98/WiFi-Weather-Monitor-ePaper-Display/blob/master/SCREENSHOTS/3.JPG?raw=true)
+![alt text](https://github.com/akarsh98/DFRobot-LoRa-Firebeetle-Code/blob/master/SCREENSHOTS/8.JPG?raw=true)
 
-The Display is connected to an esp8266, you can use an esp32 as well with this display. The esp8266 is connected to the internet using wifi whose details can be changed through the code which I have provided on github. So lets get started!
+Today we are going to make a project which is basically about setting up LoRa radios to talk with each other in the easiest way possible.
+
+Here the microcontroller that I have used is the ESP32, which is connected to LoRa boards of 915MHz, I have also attached an OLED display to one of the Radio so that the packet information is visible. All the modules used in this project are from DFRobot as the pin compatibility is there for these modules, So I do not recommend using modules of different manufacturers. So let's get started!
 
 I have also made a video about building this project in detail, I recommend watching that for better insight and detail.
 
