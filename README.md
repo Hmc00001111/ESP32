@@ -1,6 +1,6 @@
 # DFRobot-LoRa-Firebeetle
 
-Get started with LoRa Radios easily without ann much wiring. This is possible by using stackable modules from DFRobot.
+Get started with LoRa Radios easily without any much wiring. This is possible by using stackable modules from DFRobot.
 
 ![alt text](https://github.com/akarsh98/DFRobot-LoRa-Firebeetle-Code/blob/master/SCREENSHOTS/8.JPG?raw=true)
 
